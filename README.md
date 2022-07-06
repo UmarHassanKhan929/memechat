@@ -1,5 +1,5 @@
 # memechat
-An interactice chat app made using firebase and flutter.
+An interactive chat app made using firebase and flutter.
 to use, replace your firebase project sdk google-services.json file in android/app/
 <p float="left">
   <img src="https://user-images.githubusercontent.com/56496945/177550919-70121035-e140-47d3-8570-5687fd6d7f6a.jpeg" width="150" />
@@ -11,7 +11,6 @@ to use, replace your firebase project sdk google-services.json file in android/a
 </p>
 
 
-A new Flutter project.
 
 ## Getting Started
 
